@@ -12,7 +12,7 @@ header {
     right: 20px;
     top:50%;
     font-size: 18px;
-    background-color: #000000; /* Green background */
+    background-color: #21154d; /* Green background */
     color: rgb(255, 255, 255);
     text-align: right; /* Center the text */
     border: none;
@@ -38,7 +38,7 @@ nav ul li a {
 
 nav ul li a:hover {
     color: white;
-    background-color: #000000;
+    background-color: #21154d;
     border-radius: 5px;
 }
 
